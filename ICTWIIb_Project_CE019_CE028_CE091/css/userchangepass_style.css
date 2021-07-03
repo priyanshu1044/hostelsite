@@ -1,0 +1,53 @@
+body{
+    background-color: #00203fff;
+    font-size: large;
+}
+
+.userchange{
+    max-width: 900px;
+    margin: auto;
+    text-align: center;
+    height: 70vh;
+    margin-top: 2vh;
+    background-color: #adefd1ff;
+    border-radius: 20px;
+    text-align: center;
+    font-size: x-large;
+}
+
+
+.btn-secondary{
+    border: 2px solid #e63946;
+    border-radius: 1.5em;
+    color: #e63946;
+    background: #fff;
+    text-decoration: none;
+}
+
+.btn{
+    display: inline-block;
+    padding: 0.5em 1.5em;
+    font-weight: 500;
+    text-transform: uppercase;
+    margin: 0.5em 0;
+    text-align: center;
+    transition: all 0.5s ease;
+}
+
+.btn-secondary:hover{
+    background-color: #ff1b01;
+    color: white;
+}
+
+.center{
+    text-align: center;
+} 
+
+.text-red{
+    color: red;
+}
+
+.input{
+    height: 3vh;
+    font-size:large;
+}

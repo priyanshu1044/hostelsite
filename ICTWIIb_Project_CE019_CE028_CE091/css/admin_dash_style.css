@@ -1,0 +1,43 @@
+.class1{
+    max-width: 1100px;
+    margin: auto;
+    border: 2px solid red;
+    text-align: center;
+    background-color: #adefd1ff;
+    margin-top: 2vh;
+    border-radius: 20px;
+}
+
+.btn-secondary{
+    border: 2px solid #e63946;
+    border-radius: 1.5em;
+    color: #e63946;
+    background: #fff;
+    text-decoration: none;
+}
+
+.btn{
+    display: inline-block;
+    padding: 0.5em 1.5em;
+    font-weight: 500;
+    text-transform: uppercase;
+    margin: 0.5em 0;
+    text-align: center;
+    transition: all 0.5s ease;
+}
+
+.btn-secondary:hover{
+    background-color: #ff1b01;
+    color: white;
+}
+
+.md-heading{
+    font-size: xx-large;
+}
+.large-heading{
+    font-size: 50px;
+}
+
+body{
+    background-color: #00203fff;
+}

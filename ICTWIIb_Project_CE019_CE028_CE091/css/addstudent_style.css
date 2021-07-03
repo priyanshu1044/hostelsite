@@ -1,0 +1,91 @@
+body{
+    background-color: #00203fff;
+    font-size: large;
+}
+.uu{
+    max-width: 900px;
+    margin: auto;
+    text-align: center;
+    height: 100%;
+    margin-top: 1vh;
+    background-color: #adefd1ff;
+    text-align: center;
+    border-radius: 20px;
+}
+.rd{
+    max-width: 900px;
+    margin: auto;
+    text-align: center;
+    height: 100%;
+    margin-top: 10vh;
+    background-color: #adefd1ff;
+    text-align: center;
+    padding: 10px 40px;
+    border-radius: 20px;
+}
+.ar{
+    max-width: 600px;
+    margin: auto;
+    text-align: center;
+    height: 100%;
+    margin-top: 10vh;
+    background-color: #adefd1ff;
+    text-align: center;
+    padding: 10px 40px;
+    font-size: x-large;
+    border-radius: 20px;
+}
+.slr{
+    max-width: 100%;
+    margin: auto;
+    text-align: center;
+    height: 100%;
+    margin-top: 1vh;
+    background-color: #adefd1ff;
+    text-align: center;
+    font-size: xx-large;
+    border-radius: 20px;
+}
+
+.btn-secondary{
+    border: 2px solid #e63946;
+    border-radius: 1.5em;
+    color: #e63946;
+    background: #fff;
+    text-decoration: none;
+}
+
+.btn{
+    display: inline-block;
+    padding: 0.5em 1.5em;
+    font-weight: 500;
+    text-transform: uppercase;
+    margin: 0.5em 0;
+    text-align: center;
+    transition: all 0.5s ease;
+}
+
+.btn-secondary:hover{
+    background-color: #ff1b01;
+    color: white;
+}
+
+.large-heading{
+    font-size: 50px;
+}
+
+.ar .input{
+    height: 3vh;
+    width: 10vw;
+    font-size: large;
+}
+
+.input_button{
+    font-size: large;
+    padding: 10px;
+}
+
+
+.center{
+    text-align: center;
+}
